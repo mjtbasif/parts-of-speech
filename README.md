@@ -6,5 +6,9 @@ A project created for CSE375:Compiler Design course using Antlr. It takes a sent
   Java 
 
 # Credit 
-Razwan Ahmed Tanvir, <br>
+Razwan Ahmed Tanvir <br>
 Computer Science and Engineering, East West University.
+
+# Thanks To 
+Arif Ul Islam Ron <br>
+Computer Science and Engineering, East West University
