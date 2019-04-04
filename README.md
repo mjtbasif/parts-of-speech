@@ -5,15 +5,10 @@ A project created for CSE375:Compiler Design course using Antlr. It takes a sent
   Antlr4<br>
   Java 
 # Screen Shots
-<center>
-  ![inputs](https://raw.githubusercontent.com/mjtbasif/parts-of-speech/master/MISC/input.png)
-  <br>
-  <i> Pic 1: Input <i>
-    <br>
-    ![output](https://raw.githubusercontent.com/mjtbasif/parts-of-speech/master/MISC/output.png)
-    <br>
-    <i>Pic 2: Output</i> 
-  </center>
+![Input](/MISC/input.png)
+
+![Output](/MISC/output.png)
+
 
 # Credit 
 Razwan Ahmed Tanvir <br>
