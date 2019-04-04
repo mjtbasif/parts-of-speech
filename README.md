@@ -4,6 +4,16 @@ A project created for CSE375:Compiler Design course using Antlr. It takes a sent
 # Requirement 
   Antlr4<br>
   Java 
+# Screen Shots
+<center>
+  ![inputs](/MISC/input.png)
+  <br>
+  <i> Pic 1: Input <i>
+    <br>
+    ![output](/MISC/output.png)
+    <br>
+    <i>Pic 2: Output</i> 
+  </center>
 
 # Credit 
 Razwan Ahmed Tanvir <br>
