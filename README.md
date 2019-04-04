@@ -6,11 +6,11 @@ A project created for CSE375:Compiler Design course using Antlr. It takes a sent
   Java 
 # Screen Shots
 <center>
-  ![inputs](/MISC/input.png)
+  ![inputs](https://github.com/mjtbasif/parts-of-speech/blob/master//MISC/input.png)
   <br>
   <i> Pic 1: Input <i>
     <br>
-    ![output](/MISC/output.png)
+    ![output](https://github.com/mjtbasif/parts-of-speech/blob/master//MISC/output.png)
     <br>
     <i>Pic 2: Output</i> 
   </center>
